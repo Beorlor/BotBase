@@ -1,1 +1,3 @@
 # BotPython
+
+Rajouté la db
